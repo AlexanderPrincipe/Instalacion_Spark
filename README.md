@@ -8,7 +8,7 @@ _A continuacion se detallaran los pasos para instalar Spark-docker en Linux_
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Da un ejemplo
+$ sudo apt install docker.io
 ```
 
 ### Instalación 🔧
