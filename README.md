@@ -58,6 +58,3 @@ https://github.com/jsatch/spark-docker
 
 Este proyecto está bajo la Licencia (AP License) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
