@@ -23,7 +23,7 @@ $ sudo curl -L "https://github.com/docker/compose/releases/download/1.24.0/docke
 
 ## Cambiando permisos de ejecucion 
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Asignando permisos de ejecucion_
 
 ```
 sudo chmod +x /usr/local/bin/docker-compose
