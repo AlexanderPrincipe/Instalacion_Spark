@@ -54,6 +54,25 @@ _Repositorio creado a partir del siguiente repositorio_
 https://github.com/jsatch/spark-docker
 
 
+## Configuracion basica
+
+_Para tener instalado spark, solamente tiene que clonar el repositorio
+
+```
+$ git clone https://github.com/AlexanderPrincipe/Instalacion_Spark.git
+```
+
+_Luego en el terminal colocarse en la carpeta clonada y ejecutar.
+
+```
+$ sudo ./build-images.sh
+```
+_Por ultimo, instalar pyspark
+
+```
+$ pip install pyspark
+```
+
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (AP License) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
