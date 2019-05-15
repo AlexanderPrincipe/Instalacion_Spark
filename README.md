@@ -33,7 +33,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 ```
 
-## Build Docker images 
+## Construir imagenes docker 
 
 _Ejecutar en el shell el script build-images.sh_
 
@@ -41,7 +41,7 @@ _Ejecutar en el shell el script build-images.sh_
 $ sudo ./build-images.sh
 ```
 
-## Run the image created 
+## Ejecutar la imagen creada
 
 ```
 $ sudo docker-compose up
