@@ -54,7 +54,7 @@ _Repositorio creado a partir del siguiente repositorio_
 https://github.com/jsatch/spark-docker
 
 
-# Configuracion basica de Spark
+# Instalacion basica de Spark
 
 _Para tener instalado spark, solamente tiene que clonar el repositorio_
 
