@@ -1,3 +1,24 @@
+# Instalacion basica de Spark
+
+_Para tener instalado spark, solamente tiene que clonar el repositorio_
+
+```
+$ git clone https://github.com/AlexanderPrincipe/Instalacion_Spark.git
+```
+
+_Luego, en el terminal, colocarse en la carpeta clonada y ejecutar_
+
+```
+$ sudo ./build-images.sh
+```
+_Por ultimo, instalar pyspark_
+
+```
+$ pip install pyspark
+```
+
+
+
 # Instalacion de Spark
 
 _A continuacion se detallaran los pasos para instalar Spark-docker en Linux_
@@ -53,25 +74,6 @@ _Repositorio creado a partir del siguiente repositorio_
 
 https://github.com/jsatch/spark-docker
 
-
-# Instalacion basica de Spark
-
-_Para tener instalado spark, solamente tiene que clonar el repositorio_
-
-```
-$ git clone https://github.com/AlexanderPrincipe/Instalacion_Spark.git
-```
-
-_Luego, en el terminal, colocarse en la carpeta clonada y ejecutar_
-
-```
-$ sudo ./build-images.sh
-```
-_Por ultimo, instalar pyspark_
-
-```
-$ pip install pyspark
-```
 
 ## Licencia 📄
 
